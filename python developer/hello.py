@@ -1,0 +1,5 @@
+print("welcome to ws cube tech")
+print("20+55")
+print(23+23)
+print("welcome to ws cue tech",20)
+print(12<45)

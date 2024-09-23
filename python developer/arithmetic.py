@@ -1,0 +1,9 @@
+a=10
+b=20
+print(a+b)
+print(a-b)
+print(a*b)
+print(a/b)
+print(5**3)#EXPONENT
+print(b%3)#modulous
+print(10//3)#flowdivision
